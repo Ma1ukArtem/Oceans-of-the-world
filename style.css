@@ -1,0 +1,58 @@
+h1, h2{
+    color: #35b6fc;
+    background-color: #86f3fc;
+}
+body{
+    text-align: center;
+    background-color: #35b6fc;
+    color: #86f3fc;
+}
+header a{
+    background-color: white;
+    color: blue;
+    border: 3px solid white;
+    border-radius: 15px;
+     text-decoration: none;
+} 
+table a{
+    text-decoration: none;
+    color: blue;
+}
+p table{
+    border: 3px dashed #86f3fc;
+    border-radius: 10px;
+}
+p table td{
+    border: 3px dashed #86f3fc;
+    border-radius: 10px;
+}
+footer{
+    background-color: blue;
+    color: white;
+}
+footer a{
+    border: 1px dashed white;
+    text-decoration: none;
+    border-radius: 20px;
+    color: tomato;
+    background-color: white;
+}
+main p{
+    border-left: 3px dashed #86f3fc;
+    border-right: 3px dashed #86f3fc;
+}
+p{
+    font-size: 20px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+th{
+    font-size: 25px;
+    border-left: 3px dashed #86f3fc;
+    border-left: 3px dashed #86f3fc;
+    border-radius: 10px;
+}
